@@ -512,6 +512,7 @@
 
 
 .reserva-slide{
+	display: block;
 	position: absolute;
 	right: 190px;
 	top: 60px;	
