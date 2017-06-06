@@ -91,6 +91,16 @@
 }
 
 
+/*Classe que define o menu fixo*/
+.menu-fixed{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    width: 100%;
+}
+
+
 
 
 /*RESPONSIVO 650*********************************************************************************/
@@ -129,8 +139,9 @@
 .mainmenu{
     display: block;
     width: 100%;    
-    padding: 0 0 10px 0;    
+    padding: 10px 0 10px 0;    
     border-bottom: 2px solid #d3ad6e;
+    background-color: #fff;
 }
 
 
