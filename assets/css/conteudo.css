@@ -366,14 +366,14 @@
 	font-size: 18px;
 	font-weight: 400;	
 	display: block;
-	width: 255px;
+	width: 247px;
 }
 
 .box3-desc:before {
 	content:'';
 	position:absolute;
 
-	top: 124px;	
+	top: 145px;	
 	left: 135px;
 
 	border-left: 20px solid transparent;
@@ -408,10 +408,10 @@
 	background-color: #d9540b;
 	color: #fff;
 	
-	padding: 20px 44px;
+	padding: 20px 48px;
 
 	
-	font-size: 17px;
+	font-size: 15px;
 	font-weight: 700;
 	color: #fff;
 
@@ -502,6 +502,17 @@
 	background-color: #0653a5;
 }
 
+
+.iconface{
+	height: 20px;
+	margin: 0 30px 0 0;
+}
+
+.icongoo{
+	height: 20px;
+	margin: 0 0 0 40px !important;
+	float: right;
+}
 
 
 
@@ -997,7 +1008,7 @@ border-top: 20px solid #034790;
 .box3-desc{
 	background-color: #034790;
 	position:relative;
-	padding: 15px 30px;
+	padding: 20px 30px;
 	color: #fff;
 	font-size: 23px;
 	font-weight: 400;
